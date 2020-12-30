@@ -3,7 +3,6 @@
 
 #include <sys/stat.h>
 #include <iostream>
-#include "MassSpringSystem.h"
 #include "MaterialPointSystem.h"
 #include <functional>
 
